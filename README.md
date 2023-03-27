@@ -2,10 +2,14 @@
 
 ###### Social Media
 
-[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-plain.svg"/>] (https://www.linkedin.com/in/tomasz-koziel01/)
-[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>] (https://github.com/tomekkoziel)
-[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/discord.svg"/>] (https://discordapp.com/users/285132990470946816)
+[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-plain.svg"/>] 
+(https://www.linkedin.com/in/tomasz-koziel01/)
+[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>] 
+(https://github.com/tomekkoziel)
+[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/discord.svg"/>] 
+(https://discordapp.com/users/285132990470946816)
 
+##
 
 ###### Languages and Tools:
 
@@ -29,6 +33,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
 </p>
+
+##
 
 ###### GitHub Stats
 
