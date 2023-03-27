@@ -2,9 +2,9 @@
 
 ###### Social Media
 
-[![GitHub](https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-plain.svg)](https://www.linkedin.com/in/tomasz-koziel01/)
-[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>](https://github.com/tomekkoziel)
-[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/discord.svg"/>](https://discordapp.com/users/285132990470946816)
+[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-plain.svg" width="26" height="26"/>](https://www.linkedin.com/in/tomasz-koziel01/)
+[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"  width="26" height="26"/>](https://github.com/tomekkoziel)
+[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/discord.svg"  width="26" height="26"/>](https://discordapp.com/users/285132990470946816)
 
 ##
 
