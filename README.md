@@ -2,8 +2,8 @@
 
 ###### Social Media
 
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" width="26" height="26"/>](https://www.linkedin.com/in/tomasz-koziel01/)
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg"  width="26" height="26"/>](https://github.com/tomekkoziel)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" width="26" height="26"/>](https://github.com/tomekkoziel)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg"  width="26" height="26"/>](https://www.linkedin.com/in/tomasz-koziel01/)
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Discord_white.svg"  width="26" height="26"/>](https://discordapp.com/users/285132990470946816)
 
 ##
