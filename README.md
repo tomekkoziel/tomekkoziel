@@ -23,7 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="26" height="26"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="26" height="26"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" width="26" height="26"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" width="26" height="26"/>
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/assets/readme/latex-white.svg" width="26" height="26"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="26" height="26"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" width="26" height="26"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="26" height="26"/>
